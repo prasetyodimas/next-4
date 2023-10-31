@@ -1,4 +1,3 @@
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project was created as a live coding event on the Female Daily Network, in addition to trying to get the best talent. 
@@ -22,7 +21,12 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install 
+  npm install ( Using recomended version at least version stable )
   ```
 
-  
+* 
+  ```sh
+    npm run dev: next
+    npm run build: next build
+    npm run start: next start
+  ```
